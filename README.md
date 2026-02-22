@@ -52,6 +52,13 @@ npm install
 
 ### 4. Running the Application
 
+#### Option A: One-Click Startup (Recommended)
+Run the automation script to start both the backend and the tunnel at once:
+```bash
+./vision_call_bot.sh
+```
+
+#### Option B: Manual Startup
 You must keep two processes running simultaneously.
 
 #### Terminal 1: Application Server
